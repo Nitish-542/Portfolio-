@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio website, built using **Vite + React**. This project showcases my skills, experience, and featured projects by dynamically fetching data from a Node.js + Express backend.
 
-> ⚠️ Note: This repository contains **only the frontend code**. The backend API is hosted separately and maintained by a collaborator.
+> ⚠️ Note: This repository contains **only the frontend code**. The backend API is hosted separately.
 
 ## 🧠 Technologies Used
 
